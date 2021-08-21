@@ -1,4 +1,4 @@
-def callName():
-    print("My name is Daniel Iheonu")
+def myName():
+    print("My name is Tumininu Adeniyi")
 
-callName()
+myName()
